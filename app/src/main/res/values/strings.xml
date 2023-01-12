@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FinalTaskApp</string>
+    <string name="game_title">Game Title</string>
+    <string name="release_date">Release:</string>
+    <string name="release_date_content">Tanggal Rilis</string>
+    <string name="genre_game">Genre:</string>
+    <string name="genre_game_content">Genre Game</string>
+    <string name="game_rating">Rating:</string>
+    <string name="game_rating_content">10/10</string>
+    <string name="buttonDetail">Detail</string>
+    <string name="game_desc">Description:</string>
+    <string name="game_desc_content">Description</string>
+    <string name="titleGame">Judul Game</string>
+    <string name="releaseDate">Tahun Release</string>
+    <string name="gameRating">Rating Game</string>
+    <string name="gameDesc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu pellentesque urna, rutrum sodales enim. Sed tincidunt leo non gravida elementum. Ut placerat massa id aliquam lacinia. Etiam ut risus rutrum libero elementum pulvinar fermentum ac eros. Cras velit quam, vulputate id condimentum sollicitudin, cursus vel dolor. Suspendisse potenti. In a accumsan magna. Mauris non elementum dui, sed viverra orci.</string>
+    <string name="share">SHARE</string>
+</resources>
